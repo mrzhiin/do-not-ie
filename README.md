@@ -4,6 +4,8 @@
 
 由于 Google Chrome 官网链接不稳定，所以采用了新浪的下载地址
 
+![](https://raw.githubusercontent.com/mrzhiin/do-not-ie/master/screen.png)
+
 # 使用
 
 在 ```head``` 标签中添加 js 链接，并包含在 IE 的条件注释里
