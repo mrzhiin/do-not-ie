@@ -12,7 +12,11 @@
 
 ```
 <!--[if lte IE 9]>
-<script src="js/js.min.js"></script>
+<script src="js/dnie.min.js"></script>
 <![endif]-->
 ``` 
 将 ```dnie```文件夹放在```html```文件同级目录
+
+#
+
+注意：IE6 及以下可能无法正常显示
